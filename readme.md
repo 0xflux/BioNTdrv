@@ -11,5 +11,5 @@ THE USE OF AI FOR EXPLOIT DEVELOPMENT.
 To see the FULL local privilege escallation exploit, see the source file: [claude_exploit.rs]([url](https://github.com/0xflux/BioNTdrv/blob/master/src/claude_exploit.rs)) in this project.
 
 ### Proof:
-
-![alt text](lpe.png)
+ 
+ ![Proof of POC](proof.jpg)
